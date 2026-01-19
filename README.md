@@ -47,6 +47,8 @@ tiny-imagenet-200 is used as the dataset in this reproduction. Validation set is
 | Training accuracy | 67.33% |
 | Test accuracy     | 46.01% |
 
+![](image/TrainingAccuracy.png)
+
 ## Discussion
 After using cropping and horizontal flipping, we significantly reduce overfitting, compared with the VGGNet we trained earlier.
 
