@@ -1,5 +1,5 @@
 
-# VGG Paper Reproduction (2015)
+# GoogLeNet Paper Reproduction (2015)
 
 ## Introduction
 This project reproduces the original GoogLeNet architecture as described in the paper.
