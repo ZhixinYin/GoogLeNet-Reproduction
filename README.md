@@ -59,8 +59,6 @@ From the difference between training set accuracy and test set accuracy, we can 
 ## References
 Szegedy, C., Liu, W., Jia, Y., Sermanet, P., Reed, S., Anguelov, D., Erhan, D., Vanhoucke, V., & Rabinovich, A. (2015). Going deeper with convolutions. In Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR).
 
-Tiny ImageNet Dataset
-Wu, J., Zhang, J., Xie, Y., & others. (2017).
-Tiny ImageNet Visual Recognition Challenge.
-Stanford University.
-https://tiny-imagenet.herokuapp.com/
+Tiny ImageNet dataset — 200-class subset of ImageNet used in CS231n.
+Official download (includes training/validation/test):
+http://cs231n.stanford.edu/tiny-imagenet-200.zip
